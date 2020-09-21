@@ -1,5 +1,4 @@
-<img src="https://www.ead.senac.br/arquivo/api/download/publico/1134" alt="drawing" width="400"/><br>
-Análise e Desenvolvimento de Sistemas - Senac 2019
+![Análise e Desenvolvimento de Sistemas - Senac 2019](https://www.liveondemand.com.br/wp-content/uploads/2019/05/logo-SENAC.png)
 
 # SITE DE COMPRAS
 Exercício Main/Classes em Java
